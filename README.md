@@ -2,7 +2,7 @@
 - 👀 Explorar novas tecnologias, aprender sobre arquitetura de software e contribuir para projetos de código aberto.
 - 🌱 Melhorar minhas habilidades em HTML, CSS e JavaScript, e estou começando a aprender sobre desenvolvimento de aplicativos móveis.
 - 💞️ Iniciativas que utilizem tecnologias web modernas e que tenham um impacto positivo na sociedade.
-- 📫 Você pode me encontrar no LinkedIn:linkedin.com/in/diego-henrique-florencio/ ou enviar um e-mail para dev.diegohenrique@gmail.com.
+- 📫 Você pode me encontrar no LinkedIn: www.linkedin.com/in/diego-henrique-florencio ou enviar um e-mail para dev.diegohenrique@gmail.com.
 - ⚡ Adoro resolver problemas e encontrar soluções criativas para desafios de programação.
 
 <!---
