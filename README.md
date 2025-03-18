@@ -8,6 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-henrique-florencio/)](https://www.linkedin.com/in/diego-henrique-florencio/)
 [![Gmail Badge](https://img.shields.io/badge/-diegohenrique12200@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegohenrique12200@gmail.com)](mailto:diegohenrique12200@gmail.com)
+ 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -52,14 +53,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
+<br>
 <br/>
-<br/>
 
-</div>
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-<div><br />
 
 <div align="center">  
   
